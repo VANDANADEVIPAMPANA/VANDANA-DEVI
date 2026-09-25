@@ -2,9 +2,11 @@
 
 ### Full-Stack & MERN Developer | Computer Science Student
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=MERN+Stack+Developer;Java+%2B+Python+Programmer;Building+Web+Applications;Data+Mining+%2B+AI+Enthusiast" alt="Typing SVG" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" width="100%" alt="Vandana Devi GitHub Profile">
+</picture>
 
 ---
 
