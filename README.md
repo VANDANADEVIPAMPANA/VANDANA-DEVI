@@ -1,4 +1,4 @@
-# Hi there, I'm Vandana Devi Pampana 👋
+# Hi there, I'm Vandana Devi Pampana 
 
 ### Full-Stack & MERN Developer | Computer Science Student
 
